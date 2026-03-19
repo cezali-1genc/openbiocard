@@ -10,11 +10,11 @@
     "cf-typegen": "wrangler types --env-interface CloudflareBindings -c ../../wrangler.jsonc"
   },
   "dependencies": {
-    "hono": "^4.10.6"
+    "hono": "^4.12.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241112.0",
     "typescript": "^5.0.0",
-    "wrangler": "^4.55.0"
+    "wrangler": "^4.59.1"
   }
 }
